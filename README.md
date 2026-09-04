@@ -15,7 +15,7 @@
 - 💻 I have a strong interest in **Artificial Intelligence**, **Edge Computing**, and **Web Development**.
 - 🛠️ Currently working on exciting projects involving **Python**, **TypeScript**, and **Kotlin**.
 - 🌱 Always exploring new tech stacks and improving my problem-solving skills with core CS fundamentals (C++).
-- 📫 How to reach me: _(Add your email or LinkedIn link here)_
+- 📫 How to reach me: **Email:** [ayushkkale007@gmail.com](mailto:ayushkkale007@gmail.com) | **LinkedIn:** [Ayush Kale](https://www.linkedin.com/in/ayush-kale-39b15b2b1/)
 
 ---
 
