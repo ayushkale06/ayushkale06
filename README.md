@@ -40,11 +40,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkale06&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
+  <a href="https://github.com/ayushkale06">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayushkale06&show_icons=true&theme=radical&v=1" alt="Ayush's GitHub Stats" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkale06&theme=radical" alt="Ayush's GitHub Streak" />
+  <a href="https://github.com/ayushkale06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkale06&theme=radical" alt="Ayush's GitHub Streak" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkale06&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/ayushkale06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkale06&layout=compact&theme=radical&v=1" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
